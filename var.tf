@@ -1,9 +1,9 @@
 variable "availability_zone" {
-  default = "us-west-2a"
+  default = "eu-west-1a"
 }
 
 variable "contact" {
-  default = "blake.cannon@caprinomics.com"
+  default = "blake.cannasfdon@caprinadsfaomics.com"
 }
 
 variable "environment" {
